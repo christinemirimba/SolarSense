@@ -218,4 +218,4 @@ Streamlit for web app support
 🔗 [GitHub Repository](https://github.com/christinemirimba/SolarSense)
 🔗 [NASA POWER API] (https://power.larc.nasa.gov/docs/services/api/)
 
-## <div align="center"> ✨ "Empowering sustainable energy transitions through machine learning" ☀️ Supporting UN Sustainable Development Goal 7: Affordable and Clean Energy ⭐ Star this repository if you find it helpful! </div>
+##  ✨ "Empowering sustainable energy transitions through machine learning" ☀️ Supporting UN Sustainable Development Goal 7: Affordable and Clean Energy ⭐ Star this repository if you find it helpful! 
