@@ -347,5 +347,6 @@ def show_impact():
     with col3:
         st.metric("Cost Savings", "$50-100M/year")
 
+# 🔥 THIS IS THE MISSING LINE THAT CAUSES THE BLANK SCREEN 🔥
 if __name__ == "__main__":
     main()
