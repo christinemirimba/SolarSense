@@ -182,7 +182,7 @@ Interactive web interface
 Ethical impact assessment framework
 
 ##  👥 Team
-Christine Mirimba – ML Development
+Christine Mirimba – ML Development  **Email:** [mirimbachristine@gmail.com](mailto: mirimbachristine.com)
 
 Alfred Nyongesa – Data Analysis & Optimization
 
