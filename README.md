@@ -28,11 +28,11 @@
 
 ## 🚀 Quick Start
 
-### 🔧 Prerequisites
+## 🔧 Prerequisites
 - Python 3.8+
 - Git
 
-### ⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 ```bash
 # 1. Clone the repository
 git clone https://github.com/christinemirimba/SolarSense.git
@@ -49,7 +49,7 @@ source solar_env/bin/activate
 # 3. Install dependencies
 pip install -r requirements.txt
 
-### ▶️ Running the Project
+## ▶️ Running the Project
 Option A: Run Machine Learning Model
 bash
 python solar_energy_predictor.py
@@ -102,7 +102,7 @@ Model	MAE	RMSE	R² Score
 📈 Linear Regression	0.423	0.558	0.946
 🧠 Neural Network	0.726	0.918	0.855
 
-Feature Engineering
+## Feature Engineering
 Seasonal patterns with cyclical encoding
 
 Lag features (previous day/week solar radiation)
@@ -181,12 +181,14 @@ Interactive web interface
 
 Ethical impact assessment framework
 
-## 👥 Team
+##  👥 Team
 Christine Mirimba – ML Development
 
 Alfred Nyongesa – Data Analysis & Optimization
 
-Hannah Shekinah – Ethical Analysis & Documentation
+Hannah Shekinah – Ethical Analysis  
+
+Joelina Quarshie - Documentation
 
 ## 🌟 Future Enhancements
 Real-time NASA API integration
@@ -211,11 +213,9 @@ Scikit-learn & TensorFlow communities
 
 Streamlit for web app support
 
-## 🔗 Links
-🔗 GitHub Repository
-
-🔗 Live Demo
-
-🔗 NASA POWER API
+##  🔗 Links
+🔗 [Live Demo](https://solar-energy-predict.streamlit.app/)  
+🔗 [GitHub Repository](https://github.com/christinemirimba/SolarSense)
+🔗 [NASA POWER API] (https://power.larc.nasa.gov/docs/services/api/)
 
 ## <div align="center"> ✨ "Empowering sustainable energy transitions through machine learning" ☀️ Supporting UN Sustainable Development Goal 7: Affordable and Clean Energy ⭐ Star this repository if you find it helpful! </div>
