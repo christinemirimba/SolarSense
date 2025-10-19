@@ -12,6 +12,7 @@
 
 **SolarSense AI** is a machine learning solution that predicts daily solar energy potential (kWh/m²/day) using weather data from the NASA POWER API. This project directly supports **UN Sustainable Development Goal 7: Affordable and Clean Energy** by enabling better solar resource assessment and grid integration planning.
 
+🔗 [Article](https://(https://solarsense-ai-cmd5bvy.gamma.site/)/)  
 🔗 [Live Demo](https://solar-energy-predict.streamlit.app/)  
 🔗 [GitHub Repository](https://github.com/christinemirimba/SolarSense)
 
