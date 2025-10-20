@@ -53,8 +53,9 @@ source solar_env/bin/activate
 
 # 3. Install dependencies
 pip install -r requirements.txt
-
+```
 ## ▶️ Running the Project
+```
 Option A: Run Machine Learning Model
 bash
 python solar_energy_predictor.py
@@ -69,8 +70,10 @@ Option C: Run Both (Recommended)
 bash
 python solar_energy_predictor.py
 streamlit run app.py
+```
 
 ## 📁 Project Structure
+```
 Code
 SolarSense/
 ├── solar_energy_predictor.py    # 🤖 ML model training
@@ -80,10 +83,11 @@ SolarSense/
 ├── nasa_power_solar_data.csv    # 📈 Sample dataset
 ├── README.md                    # 📖 Documentation
 └── .gitignore                   # 🔒 Git exclusions
+```
 
 ## 📊 Dataset
-Source: NASA POWER API
 
+Source: NASA POWER API
 Location: Nairobi, Kenya
 
 Period: January 2018 – December 2023
@@ -186,15 +190,21 @@ Interactive web interface
 
 Ethical impact assessment framework
 
-##  👥 Team
-Christine Mirimba – ML Development
-📧 **Email:** [mirimbachristine@gmail.com](mailto: mirimbachristine@gmail.com)  
+## 👥 Team
 
-Alfred Nyongesa – Data Analysis & Optimization
+**Christine Mirimba** – Machine Learning Engineer  
+📧 [`Let's Build 🚀`](mailto:mirimbachristine@gmail.com)
 
-Hannah Shekinah – Ethical Analysis  
+**Alfred Nyongesa** – Data Analyst & System Optimization  
+📧 [`Let's Optimize ⚙️`](mailto:alfred.dev8@gmail.com)
 
-Joelina Quarshie - Documentation
+**Hannah Shekinah** – AI Ethics & Sustainability Specialist  
+📧 [`Let's Innovate 🌍`](mailto:hannahshekinah@gmail.com)
+
+**Joelina Quarshie** – Technical Writer & Research Coordinator  
+📧 [`Let's Document 📝`](mailto:joelinakq@gmail.com)
+
+
 
 ## 🌟 Future Enhancements
 Real-time NASA API integration
@@ -221,7 +231,11 @@ Streamlit for web app support
 
 ##  🔗 Links
 🔗 [Live Demo](https://solar-energy-predict.streamlit.app/)  
+
 🔗 [GitHub Repository](https://github.com/christinemirimba/SolarSense)
+
 🔗 [NASA POWER API] (https://power.larc.nasa.gov/docs/services/api/)
 
 ##  ✨ "Empowering sustainable energy transitions through machine learning" ☀️ Supporting UN Sustainable Development Goal 7: Affordable and Clean Energy ⭐ Star this repository if you find it helpful! 
+
+
