@@ -121,9 +121,9 @@ def show_home():
     st.subheader("🎯 Quick Start")
     st.info("""
     **Get started in 3 steps:**
-    1. **Train Models**: Run `python solar_energy_predictor.py` (if not done already)
-    2. **Make Predictions**: Use the Prediction tab with weather data
-    3. **Analyze Results**: View charts and insights in Analysis tab
+    1. **Navigation**: Go to 'Energy Prediction' tab
+    2. **Make Predictions**: Adjust weather settings and Click 'Predict Solar Energy'
+    3. **Analyze Results**: View charts and insights in 'Data Analysis' tab
     """)
 
 def show_prediction(predictor):
